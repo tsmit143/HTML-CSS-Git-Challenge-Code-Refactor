@@ -59,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-/*Service Option Style Details*/
+/*Services Provided Style Details*/
 .content {
     width: 75%;
     display: inline-block;
@@ -74,7 +74,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/*Individual Service Provided Style*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -101,6 +101,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/*Individual Services Provided Image Max Height*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -112,7 +113,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/*Individual Services Provided Heading Style*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -128,8 +129,7 @@ p {
     font-size: 36px;
 }
 
-/*Benefits Style Details*/
-
+/*Benefits General Style Details*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -155,7 +155,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*Benefits Heading Style*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -170,7 +170,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*Benefits Icon Style*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -196,7 +196,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+/*Footer Heading Font Size*/
+.footer h4 {
     font-size: 20px;
 }
